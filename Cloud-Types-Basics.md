@@ -11,10 +11,6 @@ Iaas(Infrastructure-as-a-service):</b> On this service, you get most of the cont
 <b>Uses of Iaas</b>: When you want to run multiple application on a single vertual machine, testing your application on different OS, more control over your website.<br>
 <b>PaaS(Platform as a service )</b>: It is for simple things like website hosting. Here you do not need to worry about software licence, OS, storage and networking attributes. Instead, you manage the website or application you develop, so you are getting less control from IaaS.<br>
 <b>Uses of Paas:</b>Web hosting,testing, building and updating.<br>
-<<<<<<< HEAD
-<b>SaaS(Software as a service):</b>When you want the least management responsibility, then you should go for it.Also use it when you want to host cloud-based software on the cloud you need to use it.(subscription based services).<br>
-<b>Uses of Saas:</b> Hosting webservices like office 365.
-=======
 <b>SaaS(Software as a service):</b>When you want the least management responsibility. When you want to host a cloud based software on the cloud you need to use it(subscription based services).<br>
 <b>Uses of Saas:</b> Hosting webservices like office 365.
->>>>>>> 0fad5f10ff5d429b9edb2d2dc3bc5f0afd327103
+
