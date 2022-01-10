@@ -1,6 +1,6 @@
 <h2 stlye="color:blue";>Cloud Types</h2>
 <p>There are 3 types of cloud service models</p>
-<ul>IaaS (Infrastructure-as-a-service)</ul>
+<ul>IaaS (Infrastructure as a service)</ul>
 <ul>PaaS(Platform as a service )</ul>
 <ul>SaaS(Software as a service)</ul>
 <img src="https://github.com/ikramulkayes/Azure-Core-Concepts/blob/main/webservices_table.png" alt="Service models table" width="490" height="250"><br>
