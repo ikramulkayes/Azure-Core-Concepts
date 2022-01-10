@@ -3,7 +3,7 @@
 <ul>IaaS (Infrastructure-as-a-service)</ul>
 <ul>PaaS(Platform as a service )</ul>
 <ul>SaaS(Software as a service)</ul>
-<img src="webservices_table.PNG" alt="Service models table" width="490" height="250"><br>
+<img src="https://github.com/ikramulkayes/Azure-Core-Concepts/blob/main/webservices_table.png" alt="Service models table" width="490" height="250"><br>
 Source: Azure webservices
 <h4>Lets know some Baiscs of this 3 models</h4>
 <b>
