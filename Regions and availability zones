@@ -1,0 +1,18 @@
+<h2> Regions and availability zones </h2>
+
+Using cloud computing system we can deploy applications in multiple regions and data-replication in another region; and can also access it easily.
+As multiple times, we have mentioned regions, lets get to know more about it.
+
+<b> Region: </b> Region is the location of your services.  A region is a set of datacenters connected through a regional low-latency network.
+
+Microsoft azure has the most number of regions currently, so it gives customers the flexibility to deploy application wherever needed.
+
+Two kinds of regions we need to keep in mind:
+
+1) Special government regions (US DoD Central, US Gov Virginia, etc.)
+ 
+2) Special partnered regions (China East, China North)
+
+<b> Region Pair: </b> Each region pairing with another region makes region pair. Region pairs are static and we cannot choose it. 
+
+<b> Availability Zone:</b> Then comes the availability zone which is a regional feature. It is designed to protect from data center failures. Availability Zones are grouping of physically separate facilities, so if a zone goes down others continue working. But not all regions are supported in availability zone, a supported region has three or more zones.
